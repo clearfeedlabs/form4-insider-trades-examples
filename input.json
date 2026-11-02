@@ -1,0 +1,22 @@
+{
+  "lookbackDays": 14,
+  "transactionCodes": [
+    "P"
+  ],
+  "detectClusters": true,
+  "clusterMinInsiders": 3,
+  "clusterWindowDays": 14,
+  "maxFilings": 800,
+  "mode": "dateRange",
+  "includeAllCodes": false,
+  "excludeRoutine": true,
+  "side": "all",
+  "exclude10b5_1": false,
+  "only10b5_1": false,
+  "onlyLateFilings": false,
+  "includeDerivative": true,
+  "filingType": "all",
+  "dedupeAmendments": false,
+  "outputTrades": true,
+  "maxTrades": 1000
+}
