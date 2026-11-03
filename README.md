@@ -25,6 +25,12 @@ This repo shows how to call the [SEC Form 4 Insider Trades](https://apify.com/cl
 ## Pricing
 Pay per result on Apify. See the current price list on the [Store page](https://apify.com/clearfeedlabs/form4-insider-trades).
 
+## Related Clearfeed Labs Actors
+- [SEC Form D Scraper: Startup Funding Leads Feed (EDGAR)](https://apify.com/clearfeedlabs/form-d-funding-feed): newly funded companies from SEC Form D
+- [USAspending Scraper: Federal Contract & Grant Award Alerts](https://apify.com/clearfeedlabs/money-trail-federal-awards): federal contract and grant awards with recompete details
+- [Company Contact Scraper: Domain to Email, Phone & Socials](https://apify.com/clearfeedlabs/company-contact-enrichment): emails, phones and socials for a list of domains
+- [All Clearfeed Labs Actors](https://apify.com/clearfeedlabs)
+
 ## Links
 - Actor on the Apify Store: https://apify.com/clearfeedlabs/form4-insider-trades
 - Guide: https://clearfeedlabs.com/guides/form4-insider-trades/
